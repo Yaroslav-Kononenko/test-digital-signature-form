@@ -1,0 +1,17 @@
+@import '../../utils/variables.scss';
+
+.UsersList {
+  width: 360px;
+
+  &__table {
+    width: $blockwidth;
+    border-collapse: collapse;
+    border: 1px solid;
+  }
+
+  &__button {
+    padding: 5px 10px;
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+}

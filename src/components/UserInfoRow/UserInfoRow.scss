@@ -1,0 +1,14 @@
+@import '../../utils/variables.scss';
+
+.UserInfoRow {
+  border: 1px solid;
+
+  &:hover {
+    background-color: $userBgHoverColor;
+    cursor: pointer;
+  }
+}
+
+.selected {
+  cursor: default;
+}
