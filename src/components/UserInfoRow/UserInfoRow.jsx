@@ -7,7 +7,7 @@ export const UserInfoRow = ({ user }) => {
     <tr className="UserInfoRow">
       <td>{user}</td>
       <td>
-        lalalalalalalal
+        blablabla
       </td>
     </tr>
   )
